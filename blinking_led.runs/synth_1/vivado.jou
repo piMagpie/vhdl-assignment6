@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jan 10 18:53:04 2019
+# Process ID: 3136
+# Current directory: C:/Users/agazor/Desktop/exercise1/blinking_led/blinking_led.runs/synth_1
+# Command line: vivado.exe -log led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led.tcl
+# Log file: C:/Users/agazor/Desktop/exercise1/blinking_led/blinking_led.runs/synth_1/led.vds
+# Journal file: C:/Users/agazor/Desktop/exercise1/blinking_led/blinking_led.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source led.tcl -notrace
