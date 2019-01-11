@@ -65,6 +65,7 @@ begin
         constant g_pink : INTEGER := 64;
         constant b_pink : INTEGER := 128;
         
+        -- flag
         variable flag : BOOLEAN := FALSE;
     begin
         if rising_edge(sysclk) then
